@@ -2,12 +2,6 @@
 
 
 [[projects]]
-  branch = "master"
-  name = "github.com/btcsuite/btcd"
-  packages = ["btcec"]
-  revision = "bc0944904505aab55e089371a892be2f87883161"
-
-[[projects]]
   name = "github.com/davecgh/go-spew"
   packages = ["spew"]
   revision = "346938d642f2ec3594ed81d874461961cd0faa76"
@@ -39,6 +33,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "3874318aff9b382498f490208d09e4d57a0f9a11bf23c921b61d06120bbac1e8"
+  inputs-digest = "04ff8f84e22989924b3b72a7c95a3a0c5eb3c566fb6bc00750d44b61ad676288"
   solver-name = "gps-cdcl"
   solver-version = 1
