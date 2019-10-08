@@ -13,3 +13,8 @@
 
 * https://cloud.tencent.com/document/product/269/1510
 * http://bbs.qcloud.com/thread-21826-1-1.html
+
+## 更新
+
+官方更新了新的签名算法 v2 参考：
+https://github.com/tencentyun/tls-sig-api-v2-golang/blob/master/tencentyun/TLSSigAPI.go
